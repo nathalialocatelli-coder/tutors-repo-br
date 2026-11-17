@@ -8,7 +8,7 @@ sprint: "Sprint 12 - Projeto Final - Caso Aplicado Integrado"
 gerado_em: 2026-11-17
 ---
 
-%% fonte interna: [[Projeto Final - página sem banca (para colar)]] (versão sem banca, colada no Notion em 2026-11-17): "O que você entrega" (cinco peças), "Os três casos" (núcleo mínimo e restrição), "O que não é exigido", "Como você será avaliado" (sete critérios em três níveis), "Entradas da demonstração", "Situações eliminatórias", "Nota e reentrega", "As três perguntas que o dossiê responde", "Antes de enviar" (checklist) e "Formato de entrega". Formato: [[Rubrica do aluno (formato)]]. Sem job, por decisão da autora. %%
+
 
 # Critérios do tutor · Projeto Final (Caso Aplicado Integrado)
 
